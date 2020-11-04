@@ -40,7 +40,7 @@ export default function Routes() {
         />
         
         <Screen
-          name="OrphanaOrphanageDatageDetails"
+          name="OrphanageData"
           component={OrphanageData}
           options={{
             headerShown: true,
